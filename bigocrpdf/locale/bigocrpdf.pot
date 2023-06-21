@@ -14,38 +14,6 @@ msgstr  "Project-Id-Version: bigocrpdf\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-msgid   "Escolha o arquivo PDF para aplicar o OCR, com isso será possível "
-        "efetuar buscas ou copiar textos.\n"
-        "\n"
-        "Você também pode utilizar o gerenciador de arquivos, clicar com o "
-        "botão direito no arquivo PDF, 'Abrir com' e selecionar a opção de "
-        "OCR."
-msgstr  ""
-
-msgid   "Torne seu PDF pesquisável"
-msgstr  ""
-
-msgid   "Aplicando - Aguarde"
-msgstr  ""
-
-msgid   "Abrir"
-msgstr  ""
-
-msgid   "Arquivo:"
-msgstr  ""
-
-msgid   "Pasta:"
-msgstr  ""
-
-msgid   "OCR para PDF"
-msgstr  ""
-
-msgid   "Concluído!"
-msgstr  ""
-
-msgid   "Salvo em: "
-msgstr  ""
-
 msgid   "Normal"
 msgstr  ""
 
@@ -99,4 +67,36 @@ msgid   "Qualidade do PDF:"
 msgstr  ""
 
 msgid   "Alinhamento:"
+msgstr  ""
+
+msgid   "Abrir"
+msgstr  ""
+
+msgid   "Arquivo:"
+msgstr  ""
+
+msgid   "Pasta:"
+msgstr  ""
+
+msgid   "OCR para PDF"
+msgstr  ""
+
+msgid   "Concluído!"
+msgstr  ""
+
+msgid   "Salvo em: "
+msgstr  ""
+
+msgid   "Aplicando - Aguarde"
+msgstr  ""
+
+msgid   "Torne seu PDF pesquisável"
+msgstr  ""
+
+msgid   "Escolha o arquivo PDF para aplicar o OCR, com isso será possível "
+        "efetuar buscas ou copiar textos.\n"
+        "\n"
+        "Você também pode utilizar o gerenciador de arquivos, clicar com o "
+        "botão direito no arquivo PDF, 'Abrir com' e selecionar a opção de "
+        "OCR."
 msgstr  ""
