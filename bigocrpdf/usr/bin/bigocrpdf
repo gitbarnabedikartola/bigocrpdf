@@ -5,7 +5,7 @@ export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=bigocrpdf
 
 # Comandos específicos para cada ambiente
-declare -g TITLE="$([[ "$XDG_CURRENT_DESKTOP" == "GNOME" ]] && echo "bigocrpdf" || echo "Torne seu PDF pesquisável")"
+declare -g TITLE="$([[ "$XDG_CURRENT_DESKTOP" == "GNOME" ]] && echo "bigocrpdf" || echo $"Torne seu PDF pesquisável")"
 
 mkdir -p ~/.config/bigocrpdf
 
