@@ -1,8 +1,22 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 #Translation
 export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=bigocrpdf
+
+	declare -g appspath='/usr/share/bigbashview/bcc/apps/bigocrpdf'
+	declare -g icon_file='icon-big-ocr-pdf.svg'
+	declare -g sub="bigocrpdf"
+
+# Verifica o ambiente de área de trabalho
+desktop_environment=$(echo $XDG_CURRENT_DESKTOP)
+
+# Comandos específicos para cada ambiente
+if [[ "$desktop_environment" == "GNOME" ]]; then
+    declare -g TITLE="bigocrpdf"
+else
+    declare -g TITLE=$(gettext "Torne seu PDF pesquisável")
+fi
 
 mkdir -p ~/.config/bigocrpdf
 
@@ -16,4 +30,7 @@ done
 
 cd /usr/share/bigbashview/bcc/apps/bigocrpdf/
 
-LANGUAGE=$BIGBASHVIEW_LANG GDK_BACKEND=x11 SDL_VIDEODRIVER=x11 QT_QPA_PLARFORM=xcb bigbashview index.sh.htm -s 1050x600 -i icon-big-ocr-pdf.svg -n $"Torne seu PDF pesquisável"
+#LANGUAGE=$BIGBASHVIEW_LANG GDK_BACKEND=x11 SDL_VIDEODRIVER=x11 QT_QPA_PLARFORM=xcb bigbashview index.sh.htm -s 1050x600 -i icon-big-ocr-pdf.svg -n "$TITLE" -p "$TITLE"
+
+COMMON_OPTIONS="LANGUAGE=$BIGBASHVIEW_LANG QT_QPA_PLATFORM=xcb SDL_VIDEODRIVER=x11 WINIT_UNIX_BACKEND=x11 GDK_BACKEND=x11 bigbashview index.sh.htm -n \"$TITLE\" -s 1050x600 "
+eval "$COMMON_OPTIONS -p $sub -i $icon_file"
