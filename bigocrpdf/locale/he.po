@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "הפוך את קובץ ה־PDF שלך לניתן לחיפוש"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"בחר את קובץ ה־PDF להחיל את ה־OCR, כך יהיה ניתן לבצע חיפושים או להעתיק טקסטים.\n"
+"\n"
+"ניתן גם להשתמש במנהל הקבצים, ללחוץ על הקובץ ה־PDF בכפתור ימין, 'פתח עם' ולבחור את אפשרות ה־OCR."
+
+msgid "Abrir"
+msgstr "פתח"
+
+msgid "Arquivo:"
+msgstr "קובץ:"
+
+msgid "Pasta:"
+msgstr "תיקייה:"
+
+msgid "OCR para PDF"
+msgstr "OCR ל-PDF"
+
+msgid "Concluído!"
+msgstr "הושלם!"
+
+msgid "Salvo em: "
+msgstr "נשמר ב:"
+
+msgid "Normal"
+msgstr "רגיל"
+
+msgid "Econômico"
+msgstr "כלכלי"
+
+msgid "Mais econômico"
+msgstr "כלכלי יותר"
+
+msgid "Alinhar"
+msgstr "יישור"
+
+msgid "Auto rotacionar"
+msgstr "הטיית אוטומטית"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "יישור וסיבוב אוטומטי"
+
+msgid "Não alterar"
+msgstr "אל תשנה"
+
+msgid "Espanhol"
+msgstr "Spanish"
+
+msgid "Inglês"
+msgstr "אנגלית"
+
+msgid "Português"
+msgstr "תוכנה"
+
+msgid "Destino:"
+msgstr "יעד:"
+
+msgid "Aplicar"
+msgstr "החלים"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "הוספת OCR ל- PDF המסרק מאפשרת בחירת טקסט וחיפוש:"
+
+msgid "Quantidade de arquivos:"
+msgstr "מספר קבצים:"
+
+msgid "Páginas:"
+msgstr "עמודים:"
+
+msgid "Idioma do PDF:"
+msgstr "שפת ה- PDF:"
+
+msgid "Qualidade do PDF:"
+msgstr "איכות PDF:"
+
+msgid "Alinhamento:"
+msgstr "יישור:"
+
+msgid "Aplicando - Aguarde"
+msgstr "מיישמת - אנא המתינו"

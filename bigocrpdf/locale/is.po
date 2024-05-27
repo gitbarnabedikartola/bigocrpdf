@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "הפוך את קובץ ה־PDF שלך לניתנות חיפוש"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Veldu PDF skrá til að nota OCR, sem gerir þér kleift að leita eða afrita texta.\n"
+"\n"
+"Þú getur einnig notað skráastjóra, smellt á skrá PDF með hægri músartakki, 'Opna með' og valið OCR "
+"valkostinn."
+
+msgid "Abrir"
+msgstr "Open"
+
+msgid "Arquivo:"
+msgstr "Skrár:"
+
+msgid "Pasta:"
+msgstr "Mappa:"
+
+msgid "OCR para PDF"
+msgstr "OCR to PDF"
+
+msgid "Concluído!"
+msgstr "Lokið!"
+
+msgid "Salvo em: "
+msgstr "Vistað í:"
+
+msgid "Normal"
+msgstr "Venjulegt"
+
+msgid "Econômico"
+msgstr "Ekonomískt"
+
+msgid "Mais econômico"
+msgstr "Ódýrari"
+
+msgid "Alinhar"
+msgstr "Align"
+
+msgid "Auto rotacionar"
+msgstr "Sjálfvirk snúningshreyfing"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "Lína upp og sjálfvirk snúa"
+
+msgid "Não alterar"
+msgstr "Ekki breyta"
+
+msgid "Espanhol"
+msgstr "Íslenska"
+
+msgid "Inglês"
+msgstr "Enska"
+
+msgid "Português"
+msgstr "Não encontrei nada para traduzir."
+
+msgid "Destino:"
+msgstr "Áfangastaður:"
+
+msgid "Aplicar"
+msgstr "החלים"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "Bæta við OCR í skannuðu PDF skjali til að leyfa textaval og leit:"
+
+msgid "Quantidade de arquivos:"
+msgstr "Skrár fjöldi:"
+
+msgid "Páginas:"
+msgstr "Pages:"
+
+msgid "Idioma do PDF:"
+msgstr "Tungumál PDF:"
+
+msgid "Qualidade do PDF:"
+msgstr "PDF gualiti:"
+
+msgid "Alinhamento:"
+msgstr "Jafnreki:"
+
+msgid "Aplicando - Aguarde"
+msgstr "Vinsamlegast bíddu - Vinsamlegast bíddu"

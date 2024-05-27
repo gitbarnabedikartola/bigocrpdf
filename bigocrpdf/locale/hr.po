@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Napravite svoj PDF pretraživim"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Odaberite PDF datoteku za primjenu OCR-a, što će omogućiti pretraživanje ili kopiranje teksta.\n"
+"\n"
+"Također možete koristiti upravitelj datotekama, desnom tipkom miša kliknite na PDF datoteku, "
+"odaberite 'Otvori s' i odaberite opciju OCR."
+
+msgid "Abrir"
+msgstr "Otvori"
+
+msgid "Arquivo:"
+msgstr "Datoteka:"
+
+msgid "Pasta:"
+msgstr "Mapa:"
+
+msgid "OCR para PDF"
+msgstr "OCR u PDF"
+
+msgid "Concluído!"
+msgstr "Dovršeno!"
+
+msgid "Salvo em: "
+msgstr "Spremi u:"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Econômico"
+msgstr "Ekonomično"
+
+msgid "Mais econômico"
+msgstr "Povoljnije"
+
+msgid "Alinhar"
+msgstr "Poravnanje"
+
+msgid "Auto rotacionar"
+msgstr "Auto rotacija"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "Poravnaj i automatski rotiraj"
+
+msgid "Não alterar"
+msgstr "Ne mijenjati"
+
+msgid "Espanhol"
+msgstr "Španjolski"
+
+msgid "Inglês"
+msgstr "Engleski"
+
+msgid "Português"
+msgstr "Hrvatski"
+
+msgid "Destino:"
+msgstr "Odredište:"
+
+msgid "Aplicar"
+msgstr "Primijeni"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "Dodaj OCR na skenirani PDF omogućujući odabir teksta i pretraživanje:"
+
+msgid "Quantidade de arquivos:"
+msgstr "Broj datoteka:"
+
+msgid "Páginas:"
+msgstr "Stranice:"
+
+msgid "Idioma do PDF:"
+msgstr "Jezik PDF-a:"
+
+msgid "Qualidade do PDF:"
+msgstr "Kvaliteta PDF-a:"
+
+msgid "Alinhamento:"
+msgstr "Poravnanje:"
+
+msgid "Aplicando - Aguarde"
+msgstr "Primjenjivanje - Pričekaj"

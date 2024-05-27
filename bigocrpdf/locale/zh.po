@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "使您的PDF文件可搜索"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"选择要应用OCR的PDF文件，这样就可以进行搜索或复制文本。\n"
+"\n"
+"您还可以使用文件管理器，在PDF文件上右键单击，“打开方式”并选择OCR选项。"
+
+msgid "Abrir"
+msgstr "打开"
+
+msgid "Arquivo:"
+msgstr "文件:"
+
+msgid "Pasta:"
+msgstr "文件夹"
+
+msgid "OCR para PDF"
+msgstr "PDF光学字符识别"
+
+msgid "Concluído!"
+msgstr "完成！"
+
+msgid "Salvo em: "
+msgstr "保存在："
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Econômico"
+msgstr "经济"
+
+msgid "Mais econômico"
+msgstr "更经济"
+
+msgid "Alinhar"
+msgstr "对齐"
+
+msgid "Auto rotacionar"
+msgstr "自动旋转"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "对齐和自动旋转"
+
+msgid "Não alterar"
+msgstr "不要更改"
+
+msgid "Espanhol"
+msgstr "西班牙语"
+
+msgid "Inglês"
+msgstr "英语"
+
+msgid "Português"
+msgstr "葡萄牙语"
+
+msgid "Destino:"
+msgstr "目标："
+
+msgid "Aplicar"
+msgstr "应用"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "在扫描的PDF中添加OCR，允许选择文本和搜索。"
+
+msgid "Quantidade de arquivos:"
+msgstr "文件数量:"
+
+msgid "Páginas:"
+msgstr "页面:"
+
+msgid "Idioma do PDF:"
+msgstr "PDF语言:"
+
+msgid "Qualidade do PDF:"
+msgstr "PDF质量:"
+
+msgid "Alinhamento:"
+msgstr "对齐:"
+
+msgid "Aplicando - Aguarde"
+msgstr "应用中 - 请稍候"

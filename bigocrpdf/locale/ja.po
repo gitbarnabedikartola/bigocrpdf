@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Make your PDF searchable"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"PDFファイルを選択してOCRを適用し、テキストの検索やコピーが可能になります。\n"
+"\n"
+"ファイルマネージャーを使用しても、PDFファイルを右クリックし、「開く」からOCRオプションを選択することもできます。"
+
+msgid "Abrir"
+msgstr "オープン"
+
+msgid "Arquivo:"
+msgstr "ファイル:"
+
+msgid "Pasta:"
+msgstr "フォルダ:"
+
+msgid "OCR para PDF"
+msgstr "PDFへのOCR"
+
+msgid "Concluído!"
+msgstr "完了しました！"
+
+msgid "Salvo em: "
+msgstr "保存先:"
+
+msgid "Normal"
+msgstr "通常"
+
+msgid "Econômico"
+msgstr "経済的"
+
+msgid "Mais econômico"
+msgstr "経済的"
+
+msgid "Alinhar"
+msgstr "整列"
+
+msgid "Auto rotacionar"
+msgstr "自動回転"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "自動的に整列して回転"
+
+msgid "Não alterar"
+msgstr "不要更改"
+
+msgid "Espanhol"
+msgstr "スペイン語"
+
+msgid "Inglês"
+msgstr "英語"
+
+msgid "Português"
+msgstr "ポルトガル語"
+
+msgid "Destino:"
+msgstr "目的地:"
+
+msgid "Aplicar"
+msgstr "適用"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "スキャンされたPDFにOCRを追加し、テキストの選択と検索を可能にします。"
+
+msgid "Quantidade de arquivos:"
+msgstr "ファイル数:"
+
+msgid "Páginas:"
+msgstr "ページ:"
+
+msgid "Idioma do PDF:"
+msgstr "PDF言語:"
+
+msgid "Qualidade do PDF:"
+msgstr "PDFの品質:"
+
+msgid "Alinhamento:"
+msgstr "配置:"
+
+msgid "Aplicando - Aguarde"
+msgstr "Applying - お待ちください"

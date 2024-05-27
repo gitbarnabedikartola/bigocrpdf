@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Gjør PDF-en din søkbar"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Velg PDF-filen for å bruke OCR, slik at du kan søke eller kopiere tekst.\n"
+"\n"
+"Du kan også bruke filbehandleren, høyreklikke på PDF-filen, velge 'Åpne med' og velge "
+"OCR-alternativet."
+
+msgid "Abrir"
+msgstr "Åpne"
+
+msgid "Arquivo:"
+msgstr "Fil"
+
+msgid "Pasta:"
+msgstr "Mappe:"
+
+msgid "OCR para PDF"
+msgstr "OCR til PDF"
+
+msgid "Concluído!"
+msgstr "Fullført!"
+
+msgid "Salvo em: "
+msgstr "Lagres i:"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Econômico"
+msgstr "Økonomisk"
+
+msgid "Mais econômico"
+msgstr "Billigere"
+
+msgid "Alinhar"
+msgstr "Justér"
+
+msgid "Auto rotacionar"
+msgstr "Auto-roterende"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "Jusstere og automatisk rotering"
+
+msgid "Não alterar"
+msgstr "Ikke endre"
+
+msgid "Espanhol"
+msgstr "Spansk"
+
+msgid "Inglês"
+msgstr "Engelsk"
+
+msgid "Português"
+msgstr "Portugisisk"
+
+msgid "Destino:"
+msgstr "Mål:"
+
+msgid "Aplicar"
+msgstr "Bruk"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "Legg til OCR i den skannede PDF-filen for tekstvalg og søk:"
+
+msgid "Quantidade de arquivos:"
+msgstr "Fila de arkiv:"
+
+msgid "Páginas:"
+msgstr "Síður:"
+
+msgid "Idioma do PDF:"
+msgstr "PDF-språk:"
+
+msgid "Qualidade do PDF:"
+msgstr "PDF-kvalitet:"
+
+msgid "Alinhamento:"
+msgstr "Justering:"
+
+msgid "Aplicando - Aguarde"
+msgstr "Påfører - Vennligst vent"

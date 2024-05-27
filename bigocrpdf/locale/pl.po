@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Zrób swój plik PDF przeszukiwalny"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Wybierz plik PDF do zastosowania OCR, co umożliwi wyszukiwanie lub kopiowanie tekstu.\n"
+"\n"
+"Możesz także skorzystać z menedżera plików, kliknąć prawym przyciskiem myszy na plik PDF, wybrać "
+"„Otwórz za pomocą” i wybrać opcję OCR."
+
+msgid "Abrir"
+msgstr "Otwórz"
+
+msgid "Arquivo:"
+msgstr "Plik:"
+
+msgid "Pasta:"
+msgstr "Folder"
+
+msgid "OCR para PDF"
+msgstr "OCR do PDF"
+
+msgid "Concluído!"
+msgstr "Zakończono!"
+
+msgid "Salvo em: "
+msgstr "Zapisano w:"
+
+msgid "Normal"
+msgstr "Normalny"
+
+msgid "Econômico"
+msgstr "Ekonomiczny"
+
+msgid "Mais econômico"
+msgstr "Tańszy"
+
+msgid "Alinhar"
+msgstr "Wyrównaj"
+
+msgid "Auto rotacionar"
+msgstr "Auto obracanie"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "Wyrównaj i automatycznie obróć"
+
+msgid "Não alterar"
+msgstr "Nie zmieniać"
+
+msgid "Espanhol"
+msgstr "Hiszpański"
+
+msgid "Inglês"
+msgstr "Angielski"
+
+msgid "Português"
+msgstr "Portugalski"
+
+msgid "Destino:"
+msgstr "Cel:"
+
+msgid "Aplicar"
+msgstr "Zastosować"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "Dodaj OCR do zeskanowanego pliku PDF umożliwiając zaznaczanie tekstu i wyszukiwanie:"
+
+msgid "Quantidade de arquivos:"
+msgstr "Liczba plików:"
+
+msgid "Páginas:"
+msgstr "Strony:"
+
+msgid "Idioma do PDF:"
+msgstr "Język PDF:"
+
+msgid "Qualidade do PDF:"
+msgstr "Jakość pliku PDF:"
+
+msgid "Alinhamento:"
+msgstr "Wyrównanie:"
+
+msgid "Aplicando - Aguarde"
+msgstr "Stosowanie - Proszę czekać"

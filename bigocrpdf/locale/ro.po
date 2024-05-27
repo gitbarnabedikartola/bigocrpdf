@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Faceți PDF-ul dvs. căutabil."
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Selectați fișierul PDF pentru a aplica OCR, astfel veți putea efectua căutări sau copia texte.\n"
+"\n"
+"De asemenea, puteți utiliza managerul de fișiere, faceți clic dreapta pe fișierul PDF, selectați "
+"„Deschideți cu” și selectați opțiunea OCR."
+
+msgid "Abrir"
+msgstr "Deschide"
+
+msgid "Arquivo:"
+msgstr "Fișier:"
+
+msgid "Pasta:"
+msgstr "Dosar:"
+
+msgid "OCR para PDF"
+msgstr "OCR pentru PDF"
+
+msgid "Concluído!"
+msgstr "Finalizat!"
+
+msgid "Salvo em: "
+msgstr "Salvat în:"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Econômico"
+msgstr "Economic"
+
+msgid "Mais econômico"
+msgstr "Mai economic."
+
+msgid "Alinhar"
+msgstr "Alignare"
+
+msgid "Auto rotacionar"
+msgstr "Auto-rotire"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "Aliniere și rotație automată"
+
+msgid "Não alterar"
+msgstr "Nu modifica"
+
+msgid "Espanhol"
+msgstr "Spaniolă"
+
+msgid "Inglês"
+msgstr "Engleză"
+
+msgid "Português"
+msgstr "Română"
+
+msgid "Destino:"
+msgstr "Destinație:"
+
+msgid "Aplicar"
+msgstr "Aplicare"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "Adăugați OCR în PDF-ul scanat pentru permiterea selectării textelor și căutării:"
+
+msgid "Quantidade de arquivos:"
+msgstr "Număr de fișiere:"
+
+msgid "Páginas:"
+msgstr "Pagini:"
+
+msgid "Idioma do PDF:"
+msgstr "Limba PDF:"
+
+msgid "Qualidade do PDF:"
+msgstr "Calitatea PDF-ului:"
+
+msgid "Alinhamento:"
+msgstr "Alinierează:"
+
+msgid "Aplicando - Aguarde"
+msgstr "Aplicând - Așteptați"

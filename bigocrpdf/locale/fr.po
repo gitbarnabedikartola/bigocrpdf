@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Rendre votre PDF interrogeable"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Choisissez le fichier PDF pour appliquer l'OCR, ce qui permettra d'effectuer des recherches ou de "
+"copier du texte.\n"
+"\n"
+"Vous pouvez également utiliser le gestionnaire de fichiers, cliquer avec le bouton droit sur le "
+"fichier PDF, sélectionner \"Ouvrir avec\" et choisir l'option OCR."
+
+msgid "Abrir"
+msgstr "Ouvrir"
+
+msgid "Arquivo:"
+msgstr "Fichier:"
+
+msgid "Pasta:"
+msgstr "Dossier:"
+
+msgid "OCR para PDF"
+msgstr "OCR vers PDF"
+
+msgid "Concluído!"
+msgstr "Terminé !"
+
+msgid "Salvo em: "
+msgstr "Enregistré dans :"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "Econômico"
+msgstr "Économique"
+
+msgid "Mais econômico"
+msgstr "Plus économique"
+
+msgid "Alinhar"
+msgstr "Aligner"
+
+msgid "Auto rotacionar"
+msgstr "Rotation automatique"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "Aligner et rotation automatique"
+
+msgid "Não alterar"
+msgstr "Ne pas modifier"
+
+msgid "Espanhol"
+msgstr "Espagnol"
+
+msgid "Inglês"
+msgstr "Anglais"
+
+msgid "Português"
+msgstr "Français"
+
+msgid "Destino:"
+msgstr "Destination:"
+
+msgid "Aplicar"
+msgstr "Appliquer"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "Ajouter l'OCR au PDF numérisé permettant la sélection de texte et la recherche:"
+
+msgid "Quantidade de arquivos:"
+msgstr "Nombre de fichiers :"
+
+msgid "Páginas:"
+msgstr "Pages:"
+
+msgid "Idioma do PDF:"
+msgstr "Langue du PDF :"
+
+msgid "Qualidade do PDF:"
+msgstr "Qualité du PDF:"
+
+msgid "Alinhamento:"
+msgstr "Alignement :"
+
+msgid "Aplicando - Aguarde"
+msgstr "Applying - Attendez"

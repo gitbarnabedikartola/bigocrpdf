@@ -1,0 +1,105 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "PDF를 검색 가능하게 만들기"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"PDF 파일을 선택하여 OCR을 적용하면 텍스트 검색이나 복사가 가능해집니다.\n"
+"\n"
+"또한 파일 관리자를 사용하여 PDF 파일을 마우스 오른쪽 버튼으로 클릭하고 '열기'를 선택한 후 OCR 옵션을 선택할 수도 있습니다."
+
+msgid "Abrir"
+msgstr "열기"
+
+msgid "Arquivo:"
+msgstr "파일:"
+
+msgid "Pasta:"
+msgstr "폴더:"
+
+msgid "OCR para PDF"
+msgstr "PDF OCR"
+
+msgid "Concluído!"
+msgstr "완료되었습니다!"
+
+msgid "Salvo em: "
+msgstr "저장 위치:"
+
+msgid "Normal"
+msgstr "일반"
+
+msgid "Econômico"
+msgstr "경제적"
+
+msgid "Mais econômico"
+msgstr "더 경제적"
+
+msgid "Alinhar"
+msgstr "정렬"
+
+msgid "Auto rotacionar"
+msgstr "자동 회전"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "정렬 및 자동 회전"
+
+msgid "Não alterar"
+msgstr "N/A"
+
+msgid "Espanhol"
+msgstr "스페인어"
+
+msgid "Inglês"
+msgstr "영어"
+
+msgid "Português"
+msgstr "포르투갈어"
+
+msgid "Destino:"
+msgstr "대상:"
+
+msgid "Aplicar"
+msgstr "적용"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "PDF 스캔에 OCR 추가하여 텍스트 선택 및 검색 가능하게 함:"
+
+msgid "Quantidade de arquivos:"
+msgstr "파일 수:"
+
+msgid "Páginas:"
+msgstr "페이지:"
+
+msgid "Idioma do PDF:"
+msgstr "PDF 언어:"
+
+msgid "Qualidade do PDF:"
+msgstr "PDF 품질:"
+
+msgid "Alinhamento:"
+msgstr "정렬:"
+
+msgid "Aplicando - Aguarde"
+msgstr "적용 중 - 기다려주세요"

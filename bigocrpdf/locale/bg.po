@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: attranslate\n"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Направете вашия PDF файл търсим."
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão direito no arquivo PDF, "
+"'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Изберете PDF файл, върху който да приложите OCR, за да можете да извършвате търсене или копирате "
+"текст.\n"
+"\n"
+"Също така можете да използвате файловия мениджър, да щракнете с десния бутон върху PDF файла, да "
+"изберете \"Отвори с\" и да изберете опцията за OCR."
+
+msgid "Abrir"
+msgstr "Отвори"
+
+msgid "Arquivo:"
+msgstr "Файл:"
+
+msgid "Pasta:"
+msgstr "Папка:"
+
+msgid "OCR para PDF"
+msgstr "OCR към PDF"
+
+msgid "Concluído!"
+msgstr "Готово!"
+
+msgid "Salvo em: "
+msgstr "Запазване в:"
+
+msgid "Normal"
+msgstr "Обикновен"
+
+msgid "Econômico"
+msgstr "Икономичен"
+
+msgid "Mais econômico"
+msgstr "По-икономичен"
+
+msgid "Alinhar"
+msgstr "Центриране"
+
+msgid "Auto rotacionar"
+msgstr "Автоматично завъртане"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "Подравняване и автоматично завъртане"
+
+msgid "Não alterar"
+msgstr "Не променяйте"
+
+msgid "Espanhol"
+msgstr "Испански"
+
+msgid "Inglês"
+msgstr "Английски"
+
+msgid "Português"
+msgstr "Não encontrado."
+
+msgid "Destino:"
+msgstr "Целева дестинация:"
+
+msgid "Aplicar"
+msgstr "Приложение"
+
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "Добавяне на OCR в сканиран PDF, позволяващо избор на текстове и търсене:"
+
+msgid "Quantidade de arquivos:"
+msgstr "Брой на файловете:"
+
+msgid "Páginas:"
+msgstr "Страници:"
+
+msgid "Idioma do PDF:"
+msgstr "Език на PDF:"
+
+msgid "Qualidade do PDF:"
+msgstr "Качество на PDF:"
+
+msgid "Alinhamento:"
+msgstr "Подравняване:"
+
+msgid "Aplicando - Aguarde"
+msgstr "Прилагане - Изчакайте"
