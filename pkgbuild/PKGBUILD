@@ -22,7 +22,6 @@ package() {
         InternalDir="${srcdir}/${pkgname}"
     fi
 
-
     # Copy files
     if [ -d "${InternalDir}/usr" ]; then
         cp -r "${InternalDir}/usr" "${pkgdir}/"
